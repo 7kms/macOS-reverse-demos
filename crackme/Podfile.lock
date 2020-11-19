@@ -1,0 +1,16 @@
+PODS:
+  - Arcane (2.1)
+
+DEPENDENCIES:
+  - Arcane
+
+SPEC REPOS:
+  trunk:
+    - Arcane
+
+SPEC CHECKSUMS:
+  Arcane: 3a2e2f773a112911693ad4dcf4bec4293fac63e7
+
+PODFILE CHECKSUM: d196aa41fb4e4eaec5b17c80ed7d74febc8eb85e
+
+COCOAPODS: 1.10.0
